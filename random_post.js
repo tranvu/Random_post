@@ -1,4 +1,4 @@
-var rdp_numposts=9;
+var rdp_numposts=2;
 var rdp_snippet_length=60;
 var rdp_info='no';
 var rdp_comment='Comment';
